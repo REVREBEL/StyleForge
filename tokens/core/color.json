@@ -1,0 +1,54 @@
+{
+  "color": {
+    "base": {
+      "white": {
+        "value": "#ffffff"
+      },
+      "black": {
+        "value": "#000000"
+      },
+      "primary": {
+        "value": "#07304A"
+      },
+      "secondary": {
+        "value": "#C13E38"
+      },
+      "accent-1": {
+        "value": "#41BFAA"
+      },
+      "accent-2": {
+        "value": "#EEEEEE"
+      },
+      "accent-3": {
+        "value": "#FFFFFF"
+      },
+      "accent-4": {
+        "value": "#97c1c9"
+      },
+      "accent-5": {
+        "value": "#F2727D"
+      },
+      "accent-6": {
+        "value": "#2C5E7C"
+      },
+      "accent-7": {
+        "value": "#FFC72C"
+      }
+    },
+    "semantic": {
+      "background": {
+        "canvas": {
+          "value": "{color.base.secondary}"
+        },
+        "accent": {
+          "value": "{color.base.primary}"
+        }
+      },
+      "text": {
+        "primary": {
+          "value": "{color.base.white}"
+        }
+      }
+    }
+  }
+}
