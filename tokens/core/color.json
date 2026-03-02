@@ -14,25 +14,25 @@
         "value": "#41BFAA"
       },
       "accent-1": {
-        "value": "#C13E38"
+        "value": "#2C5E7C"
       },
       "accent-2": {
-        "value": "#F2727D"
+        "value": "#C13E38"
       },
       "accent-3": {
-        "value": "#97c1c9"
+        "value": "#F2727D"
       },
       "accent-4": {
         "value": "#FFC72C"
       },
       "accent-5": {
-        "value": "#ffffff"
+        "value": "#97c1c9"
       },
       "accent-6": {
         "value": "#EEEEEE"
       },
       "accent-7": {
-        "value": "#2C5E7C"
+        "value": "#FFFFFF"
       }
     },
     "semantic": {
